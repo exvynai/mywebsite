@@ -32,14 +32,12 @@ a {
 
 .header>:nth-child(1) {
     font-size: 70px;
-    margin-top: 0px;
     color: palevioletred;
 }
 
 .header>:nth-child(1)>p {
     display: inline;
     font-size: 70px;
-    margin-top: 0px;
     color: purple;
 }
 
