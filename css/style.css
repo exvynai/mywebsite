@@ -90,3 +90,8 @@ audio {
     height: 370px;
     width: 370px;
 }
+
+/*posts*/
+.posts {
+    font-size: 30px;
+}
